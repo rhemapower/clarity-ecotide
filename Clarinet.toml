@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/community.clar"
 depends_on = []
 
+[contracts.funding]
+path = "contracts/funding.clar"
+depends_on = []
+
 [contracts.project]
 path = "contracts/project.clar"
 depends_on = []
